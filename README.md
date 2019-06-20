@@ -1,0 +1,2 @@
+# collectionViewLayout
+collectionview切换layout达到不同样式列表切换，一行两个cell直接切换到一行一个
